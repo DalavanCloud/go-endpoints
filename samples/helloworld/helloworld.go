@@ -18,7 +18,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/GoogleCloudPlatform/go-endpoints/endpoints"
+	"github.com/luci/go-endpoints/endpoints"
 	"golang.org/x/net/context"
 	"google.golang.org/appengine/datastore"
 )
